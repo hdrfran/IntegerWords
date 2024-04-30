@@ -1,0 +1,7 @@
+C:\Users\francisco.hernandez\OneDrive - ACF Technologies\Desktop\Nueva carpeta (3)\IntegerToWords-master\IntegerToWords\bin\Debug\IntegerToWords.exe.config
+C:\Users\francisco.hernandez\OneDrive - ACF Technologies\Desktop\Nueva carpeta (3)\IntegerToWords-master\IntegerToWords\bin\Debug\IntegerToWords.exe
+C:\Users\francisco.hernandez\OneDrive - ACF Technologies\Desktop\Nueva carpeta (3)\IntegerToWords-master\IntegerToWords\bin\Debug\IntegerToWords.pdb
+C:\Users\francisco.hernandez\OneDrive - ACF Technologies\Desktop\Nueva carpeta (3)\IntegerToWords-master\IntegerToWords\obj\Debug\IntegerToWords.csproj.AssemblyReference.cache
+C:\Users\francisco.hernandez\OneDrive - ACF Technologies\Desktop\Nueva carpeta (3)\IntegerToWords-master\IntegerToWords\obj\Debug\IntegerToWords.csproj.CoreCompileInputs.cache
+C:\Users\francisco.hernandez\OneDrive - ACF Technologies\Desktop\Nueva carpeta (3)\IntegerToWords-master\IntegerToWords\obj\Debug\IntegerToWords.exe
+C:\Users\francisco.hernandez\OneDrive - ACF Technologies\Desktop\Nueva carpeta (3)\IntegerToWords-master\IntegerToWords\obj\Debug\IntegerToWords.pdb
